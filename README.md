@@ -1,4 +1,4 @@
-# Termo Clone
+# Termo
 
 Este repositório contém um clone do popular jogo de palavras Termo. O objetivo do jogo é adivinhar a palavra do dia em até seis tentativas. Cada tentativa deve ser uma palavra válida e, após cada palpite, o jogo fornece feedback indicando quais letras estão corretas e na posição correta.
 
